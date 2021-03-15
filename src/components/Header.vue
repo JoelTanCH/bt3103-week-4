@@ -64,8 +64,8 @@ h1{
   width:30%;
   font-size: 40px;
   color: "blue";
-  margin-top: -65px;
-  margin-left: 300px;
+  margin-top: -25px;
+  margin-left: 200px;
   box-sizing: border-box;
   border-width: 1.5px;
   position:relative;
